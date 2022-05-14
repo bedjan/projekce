@@ -2,28 +2,28 @@
 
 <details>
 <summary><u>Katastr</u></summary>
-<a href="https://www.cuzk.cz/">CUZK</a><a href="https://ags.cuzk.cz/geoprohlizec/">Katastr mapy - dxf, dgn,..</a><a href="https://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3">Nahlížení do katastru - Marushka</a><a href="https://nahlizenidokn.cuzk.cz/">Nahlížení do katastru nemovitostí</a><a href="https://services.cuzk.cz/dgn/ku/">Katastr s dgn mapy</a><a href="https://services.cuzk.cz/dxf/ku/">Katastr s dxf mapy - v autocadu vložit - importovat dgn</a><a href="https://www.ikatastr.cz/">Ikatastr</a>
+<a href="https://www.cuzk.cz/">CUZK</a> <a href="https://ags.cuzk.cz/geoprohlizec/">Katastr mapy - dxf, dgn,..</a> <a href="https://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3">Nahlížení do katastru - Marushka</a> <a href="https://nahlizenidokn.cuzk.cz/">Nahlížení do katastru nemovitostí</a> <a href="https://services.cuzk.cz/dgn/ku/">Katastr s dgn mapy</a> <a href="https://services.cuzk.cz/dxf/ku/">Katastr s dxf mapy - v autocadu vložit - importovat dgn</a> <a href="https://www.ikatastr.cz/">Ikatastr</a>
 <a href="https://mawis.eu/utilityreport/mesta/">Mawis - Města</a>
 </details>
 
 <details>
 <summary><u>Mapy</u></summary>
-<a href="https://www.google.com/maps">Mapy Google</a><a href="https://mapy.cz/zakladni?x=14.0120590&y=50.6572500&z=11">Mapy Seznam</a><a href="https://api.mapy.cz/view?page=altitude">Nadmořská výška</a>
+<a href="https://www.google.com/maps">Mapy Google</a> <a href="https://mapy.cz/zakladni?x=14.0120590&y=50.6572500&z=11">Mapy Seznam</a> <a href="https://api.mapy.cz/view?page=altitude">Nadmořská výška</a>
 </details>
 
 <details>
 <summary><u>Registr ekonomických subjektů</u></summary>
-<a href="https://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?VSS_SERV=ZVWSBJFND">Živnost. rejstřík</a><a href="https://apl.czso.cz/irsw/">RES</a><a href="https://wwwinfo.mfcr.cz/ares/ares_es.html.cz">ARES</a>
+<a href="https://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?VSS_SERV=ZVWSBJFND">Živnost. rejstřík</a> <a href="https://apl.czso.cz/irsw/">RES</a> <a href="https://wwwinfo.mfcr.cz/ares/ares_es.html.cz">ARES</a>
 </details>
 
 <details>
 <summary><u>Pdf na dwg</u></summary>
-<a href="https://cadsofttools.com/cz/pdf-to-dwg-online/">Pdf na dwg online A</a><a href="https://www.zamzar.com/convert/pdf-to-dwg/">Pdf na dwg online B</a><a href="https://www.convertpdftoautocad.com/">Pdf na dwg online C</a><a href="https://www.google.com/search?q=pdf+to+dwg&rlz=1C1GCEA_enCZ1004CZ1004&oq=pdf+to+dwg&aqs=chrome.0.69i59l2j0i512l3j69i60l3.3375j0j7&sourceid=chrome&ie=UTF-8">Pdf na dwg online ostatní</a>
+<a href="https://cadsofttools.com/cz/pdf-to-dwg-online/">Pdf na dwg online A</a> <a href="https://www.zamzar.com/convert/pdf-to-dwg/">Pdf na dwg online B</a> <a href="https://www.convertpdftoautocad.com/">Pdf na dwg online C</a> <a href="https://www.google.com/search?q=pdf+to+dwg&rlz=1C1GCEA_enCZ1004CZ1004&oq=pdf+to+dwg&aqs=chrome.0.69i59l2j0i512l3j69i60l3.3375j0j7&sourceid=chrome&ie=UTF-8">Pdf na dwg online ostatní</a>
 </details>
 
 <details>
 <summary><u>Ostatní</u></summary>
-<a href="https://translate.google.cz/?hl=cs&sl=auto&tl=en&text=prodlou%C5%BEit&op=translate">Překladač Google</a><a href="https://communities-bentley-com.translate.goog/products/microstation/w/microstation__wiki/3274/microstation?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=cs&_x_tr_pto=wapp">Microstation wiki</a>
+<a href="https://translate.google.cz/?hl=cs&sl=auto&tl=en&text=prodlou%C5%BEit&op=translate">Překladač Google</a> <a href="https://communities-bentley-com.translate.goog/products/microstation/w/microstation__wiki/3274/microstation?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=cs&_x_tr_pto=wapp">Microstation wiki</a>
 </details>
 
 <details>
@@ -64,6 +64,7 @@
 - problém na serveru, nelze zadat ani registraci <a href="https://geoportal.cezteplarenska.cz/WVP/Zadost/Identification"><b>* ČEZ Teplárenská , a.s.  - pouze 1 polygon</b></a> 
 - zpoplatněno <a href="https://www.cra.cz/vyjadreni-o-existenci-siti"><b> * ČESKÉ RADIOKOMUNIKACE A.S.</b></a> 
 
+-------------------------
 
 <details>
 <summary><u>Poloh výkres</u></summary>
@@ -84,8 +85,20 @@
 <b>Microstation:</b>
 - Referenční výkresy->vložit živě->kopie celého objektu vedle->posun zpět na stejne místo
 
-  
-  <details>
+
+
+- čez distribuce->převest na vrstva 35
+- cetin->zelená vrstva smazat=ohraničení polygonu
+- osvětlení DPMUL->veřejné osvětlení 
+
+**vyřešit nemocnice:byly špatně zadaný souřadnice pokud není
+
+* dpmul veřejné osvětlení - nejspíš špatné podklady, jine souřadnice, bokem
+* gasnet prázdný soubor
+
+</details>
+
+<details>
 <summary><u>Plot výkres</u></summary>
 
 
@@ -97,3 +110,4 @@
 - výkresy C.3 a C.4 klad listů, měřítka 1:5000
 
 </details>
+
