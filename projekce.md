@@ -1,3 +1,5 @@
+<base target="_blank">
+
 <details>
 <summary><u>Katastr</u></summary>
 <a href="https://www.cuzk.cz/">CUZK</a><a href="https://ags.cuzk.cz/geoprohlizec/">Katastr mapy - dxf, dgn,..</a><a href="https://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3">Nahlížení do katastru - Marushka</a><a href="https://nahlizenidokn.cuzk.cz/">Nahlížení do katastru nemovitostí</a><a href="https://services.cuzk.cz/dgn/ku/">Katastr s dgn mapy</a><a href="https://services.cuzk.cz/dxf/ku/">Katastr s dxf mapy - v autocadu vložit - importovat dgn</a><a href="https://www.ikatastr.cz/">Ikatastr</a>
